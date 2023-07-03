@@ -1,0 +1,9 @@
+.navbar{
+    width: auto;
+    height: auto;
+    background-color: #8ad1e3;
+}
+a:hover, a:active {
+    background-color: rgb(157, 127, 127);
+  }
+  
